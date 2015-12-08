@@ -1,7 +1,7 @@
 (function(){
   'use strict';
   module.exports = {
-    your_target: {
+    heroku: {
       options: {
         remote : 'heroku'
       }
